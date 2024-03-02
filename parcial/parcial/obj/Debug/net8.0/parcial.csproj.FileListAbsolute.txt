@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Escritorio\Parcial\parcial\parcial\obj\Debug\net8.0\parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Escritorio\Parcial\parcial\parcial\obj\Debug\net8.0\parcial.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Escritorio\Parcial\parcial\parcial\obj\Debug\net8.0\parcial.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Escritorio\Parcial\parcial\parcial\obj\Debug\net8.0\parcial.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Escritorio\Parcial\parcial\parcial\obj\Debug\net8.0\parcial.sourcelink.json
+C:\Users\danie\OneDrive\Escritorio\Parcial\parcial\parcial\bin\Debug\net8.0\parcial.exe
+C:\Users\danie\OneDrive\Escritorio\Parcial\parcial\parcial\bin\Debug\net8.0\parcial.deps.json
+C:\Users\danie\OneDrive\Escritorio\Parcial\parcial\parcial\bin\Debug\net8.0\parcial.runtimeconfig.json
+C:\Users\danie\OneDrive\Escritorio\Parcial\parcial\parcial\bin\Debug\net8.0\parcial.dll
+C:\Users\danie\OneDrive\Escritorio\Parcial\parcial\parcial\bin\Debug\net8.0\parcial.pdb
+C:\Users\danie\OneDrive\Escritorio\Parcial\parcial\parcial\obj\Debug\net8.0\parcial.dll
+C:\Users\danie\OneDrive\Escritorio\Parcial\parcial\parcial\obj\Debug\net8.0\refint\parcial.dll
+C:\Users\danie\OneDrive\Escritorio\Parcial\parcial\parcial\obj\Debug\net8.0\parcial.pdb
+C:\Users\danie\OneDrive\Escritorio\Parcial\parcial\parcial\obj\Debug\net8.0\parcial.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Escritorio\Parcial\parcial\parcial\obj\Debug\net8.0\ref\parcial.dll
